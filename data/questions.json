@@ -1,0 +1,69 @@
+{
+    "questions": [
+      {
+        "id": "Q1",
+        "topic": "Continuous Integration",
+        "question": "What is the primary goal of Continuous Integration (CI)?",
+        "options": [
+          "Automatically deploy to production",
+          "Frequently integrate code changes into a shared repository",
+          "Eliminate the need for testing",
+          "Remove the need for branches"
+        ],
+        "answerIndex": 1,
+        "explanation": "Continuous Integration aims to detect integration issues early by integrating changes frequently."
+      },
+      {
+        "id": "Q2",
+        "topic": "Version Control Systems",
+        "question": "What is the main purpose of a version control system like Git?",
+        "options": [
+          "To design user interfaces",
+          "To track and manage changes to source code over time",
+          "To run containers",
+          "To replace testing"
+        ],
+        "answerIndex": 1,
+        "explanation": "Version control tracks changes, supports collaboration, and helps restore older versions when needed."
+      },
+      {
+        "id": "Q3",
+        "topic": "The DevOps Culture",
+        "question": "Which statement best describes DevOps culture?",
+        "options": [
+          "Developers and operations work separately with different goals",
+          "DevOps focuses on collaboration, shared responsibility, and continuous improvement",
+          "DevOps avoids automation to reduce risk",
+          "DevOps means no documentation is needed"
+        ],
+        "answerIndex": 1,
+        "explanation": "DevOps culture encourages collaboration and shared ownership to deliver reliable software faster."
+      },
+      {
+        "id": "Q4",
+        "topic": "Infrastructure as Code",
+        "question": "What does Infrastructure as Code (IaC) mean?",
+        "options": [
+          "Buying physical servers for every deployment",
+          "Managing infrastructure using code and automation tools",
+          "Writing code only for frontend applications",
+          "Running software without monitoring"
+        ],
+        "answerIndex": 1,
+        "explanation": "IaC uses code to provision and manage infrastructure consistently and repeatably."
+      },
+      {
+        "id": "Q5",
+        "topic": "Plan with DevOps",
+        "question": "Why is planning important in DevOps?",
+        "options": [
+          "It removes the need for automation",
+          "It helps teams align on priorities, deliverables, and timelines",
+          "It prevents continuous integration",
+          "It replaces collaboration"
+        ],
+        "answerIndex": 1,
+        "explanation": "Planning helps teams decide what to build next and how to deliver it effectively."
+      }
+    ]
+  }
