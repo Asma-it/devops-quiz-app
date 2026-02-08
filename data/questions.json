@@ -197,5 +197,71 @@
       "answerIndex": 2,
       "explanation": "DevOps teams share responsibility for delivering software and keeping systems reliable."
     }
+    ,
+    {
+      "id": "Q16",
+      "topic": "Continuous Deployment",
+      "question": "What is required for successful Continuous Deployment?",
+      "options": [
+        "Manual testing only",
+        "Strong automated testing and reliable pipelines",
+        "No monitoring",
+        "Avoiding version control"
+      ],
+      "answerIndex": 1,
+      "explanation": "Continuous Deployment relies on strong automated tests and reliable CI/CD pipelines."
+    },
+    {
+      "id": "Q17",
+      "topic": "Continuous Integration",
+      "question": "How often should developers integrate their code in CI?",
+      "options": [
+        "Once a year",
+        "Only at the end of the project",
+        "Frequently (daily or multiple times a day)",
+        "Never"
+      ],
+      "answerIndex": 2,
+      "explanation": "Frequent integration reduces merge conflicts and helps detect issues early."
+    },
+    {
+      "id": "Q18",
+      "topic": "Infrastructure as Code",
+      "question": "Which tool is commonly used for Infrastructure as Code?",
+      "options": [
+        "Terraform",
+        "Photoshop",
+        "Microsoft Word",
+        "Slack"
+      ],
+      "answerIndex": 0,
+      "explanation": "Terraform is a popular Infrastructure as Code tool used to define infrastructure with code."
+    },
+    {
+      "id": "Q19",
+      "topic": "Plan with DevOps",
+      "question": "What is a sprint in DevOps or Agile planning?",
+      "options": [
+        "A long-term five-year plan",
+        "A fixed time period to complete planned work",
+        "A production outage",
+        "A deployment tool"
+      ],
+      "answerIndex": 1,
+      "explanation": "A sprint is a short, fixed time-box used to complete planned tasks."
+    },
+    {
+      "id": "Q20",
+      "topic": "Version Control Systems",
+      "question": "What does the 'git merge' command do?",
+      "options": [
+        "Combines changes from one branch into another",
+        "Deletes commit history",
+        "Creates a new repository",
+        "Stops CI pipelines"
+      ],
+      "answerIndex": 0,
+      "explanation": "git merge integrates changes from one branch into the current branch."
+    }
     ]
   }
