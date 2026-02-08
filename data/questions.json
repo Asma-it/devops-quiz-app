@@ -65,5 +65,71 @@
         "answerIndex": 1,
         "explanation": "Planning helps teams decide what to build next and how to deliver it effectively."
       }
+      ,
+    {
+      "id": "Q6",
+      "topic": "Continuous Delivery",
+      "question": "What is the main goal of Continuous Delivery?",
+      "options": [
+        "Deploy every change to production automatically",
+        "Keep software in a deployable state with frequent reliable releases",
+        "Remove the need for version control",
+        "Stop writing automated tests"
+      ],
+      "answerIndex": 1,
+      "explanation": "Continuous Delivery ensures software is always ready to be released safely."
+    },
+    {
+      "id": "Q7",
+      "topic": "Continuous Deployment",
+      "question": "How is Continuous Deployment different from Continuous Delivery?",
+      "options": [
+        "Continuous Deployment automatically deploys changes to production after passing tests",
+        "Continuous Deployment requires manual builds",
+        "Continuous Delivery always deploys automatically to production",
+        "There is no difference"
+      ],
+      "answerIndex": 0,
+      "explanation": "Continuous Deployment pushes every successful change directly to production."
+    },
+    {
+      "id": "Q8",
+      "topic": "Version Control Systems",
+      "question": "What does a Pull Request (PR) help with?",
+      "options": [
+        "Requesting review and merging changes into the main branch",
+        "Deleting repository history",
+        "Running Docker containers",
+        "Stopping CI pipelines"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pull Requests allow team members to review and approve changes before merging."
+    },
+    {
+      "id": "Q9",
+      "topic": "The DevOps Culture",
+      "question": "Which practice supports a strong DevOps culture?",
+      "options": [
+        "Blaming individuals for failures",
+        "Shared ownership and continuous feedback",
+        "Avoiding communication",
+        "Releasing software once per year"
+      ],
+      "answerIndex": 1,
+      "explanation": "DevOps culture promotes collaboration, feedback, and shared responsibility."
+    },
+    {
+      "id": "Q10",
+      "topic": "Continuous Integration",
+      "question": "Why are automated tests important in Continuous Integration?",
+      "options": [
+        "They slow development",
+        "They catch issues early when changes are integrated",
+        "They remove the need for developers",
+        "They eliminate code reviews"
+      ],
+      "answerIndex": 1,
+      "explanation": "Automated tests detect problems early and keep the main branch stable."
+    }
     ]
   }
